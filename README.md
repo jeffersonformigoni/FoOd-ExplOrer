@@ -32,7 +32,7 @@
 
 <div align="center">
 
-  <h1><a href="https://foodexplorer.bohr.io/">👾 Site ao vivo</a></h1> 
+  <h1><a href="https://fo-od-expl-orer.vercel.app/">👾 Site ao vivo</a></h1> 
 
 </div>
 
