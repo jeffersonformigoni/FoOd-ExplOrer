@@ -11,7 +11,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instruções">Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/eduardonobrega/food-explorer-backend">Back-end</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jeffersonformigoni/food-explorer-backend">Back-end</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Primeiro clone esse Repositório 
 ```bash
-$ git clone https://github.com/eduardonobrega/food-explorer-frontend.git
+$ git clone https://github.com/jeffersonformigoni/food-explorer-frontend.git
 ```
 
 Entre na pasta raiz do repositório é instale as dependências
@@ -73,4 +73,4 @@ $ npm run dev
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/LOMJWIopGI0VwmAU9aT2YS/food-explorer-v2?node-id=201-1532&t=zm3uJVZpfRMLBSLd-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
-Feito com ♥ by [@eduardonobrega](https://www.linkedin.com/in/eduardo-nunes-nobrega/) :wave: 
+Feito com ♥ by [@jeffersonformigoni]:wave: 
